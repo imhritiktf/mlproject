@@ -17,5 +17,3 @@ logger.basicConfig(
     force=True
 )
 
-if __name__ == "__main__":
-    logger.info("Logging has started.")
